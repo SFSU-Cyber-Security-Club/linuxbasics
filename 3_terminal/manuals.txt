@@ -1,0 +1,7 @@
+========== Manaual Pages =======================================================
+Built in documentation system for Unix and Unix-like operating systems.  More
+commonly known as man pages.
+
+Usage: 
+	man [section] command_name
+

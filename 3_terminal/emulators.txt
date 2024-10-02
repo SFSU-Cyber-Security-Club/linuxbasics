@@ -1,0 +1,23 @@
+========== The Terminal =======================================================
+* Terminal: Printer or screen directly connected to a computer through physical
+  ports.
+
+* Terminal Emulator: Software "emulation" of original terminals.
+
+========== A Few Emulators ====================================================
+* QTerminal:	   Standard in Kali
+* GNOME Terminal:  ...	       Ubuntu
+* Terminal: 	   ...         MacOS
+
+========== A Few Shells =======================================================
+A shell program is software that let's users and programs interact with the
+OS's services.
+
+* sh (Bourne Shell): Default shell for Unix Version 7.  Released in 1979.
+
+* bash (Bourne Again Shell): Free software alternative to sh.  Released in 1989
+  along with the command language.
+
+* zsh (Z Shell): Extended version of sh which includes features from bash and
+  other shells.
+
