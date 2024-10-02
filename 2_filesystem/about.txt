@@ -1,0 +1,9 @@
+========== Overview ===========================================================
+* /:	  Root directory.
+* /home:  User directories.
+* /bin:   User binaries.
+* /sbin:  System binaries.
+* /etc:   Configuration files.
+* /var:   Data and logs.
+* /usr:   User applications and files.
+
