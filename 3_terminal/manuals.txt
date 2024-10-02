@@ -5,3 +5,5 @@ commonly known as man pages.
 Usage: 
 	man [section] command_name
 
+Press 'q' to exit a man page entry.
+

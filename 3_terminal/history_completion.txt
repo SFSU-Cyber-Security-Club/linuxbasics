@@ -1,7 +1,0 @@
-========== Command History & Tab Completion ===================================
-* Use the up and down arrow keys to navigate your command history.
-
-* Press the tab key to autocomplete text.
-  - Press it again to show multiple options if they exist.
-  - Continue pressing tab to iterate through the existing options.
-
