@@ -1,0 +1,9 @@
+========== Searching Inside Files =============================================
+Global Regular Expression Search & Print (grep):
+
+	$ grep 'pattern' [files]
+
+========== Finding Files ======================================================
+
+	$ find [directory] [options] [filename]
+

@@ -1,0 +1,18 @@
+========== Directory Navigation ===============================================
+Print working directory:
+
+	$ pwd
+
+List directory contents:
+
+	$ ls [target]
+
+Change directory:
+
+	$ cd [target]
+
+========== . (singe dot) vs .. (dot, dot) =====================================
+* . (single dot) is shorthand for 'current directory'
+
+* .. (dot, dot) is shorthand for 'parent directory'
+

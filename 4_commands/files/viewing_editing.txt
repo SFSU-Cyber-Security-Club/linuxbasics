@@ -1,0 +1,30 @@
+========== Viewing Files ======================================================
+Concatenate and display file content:
+
+	$ cat [options] [files]
+
+View one page at a time:
+	
+	$ less [options] [files]
+
+View column formated files:
+
+	$ col [options] [files]
+
+========== Editing Files ======================================================
+All Linux distributions (and MacOS) ship with a few terminal applications for
+editing files.
+* Nano
+* Vi
+* Vim (Vi Improved)
+
+How to quit Vi and Vim:
+
+	:q
+or
+	:q! (to overwrite)
+
+If you're interesting in learning Vim try:
+
+	$ vimtutor
+

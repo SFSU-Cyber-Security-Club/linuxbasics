@@ -1,0 +1,13 @@
+===== Command Structure =======================================================
+Most commands and tools follow the general format:
+
+	command_name [options] [arguments]
+
+Example:
+	echo "Hello SFSU Cybersecurity Club"
+vs.
+	echo -n "Hello SFSU Cybersecurity Club"
+
+Remember, if you're unsure of what a command/tool does and how to use it you
+can read its man page.
+

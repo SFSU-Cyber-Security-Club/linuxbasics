@@ -1,0 +1,29 @@
+========== File Manipulation ==================================================
+Create an empty file or update and existing file's timestamp:
+
+	$ touch [options] [file]
+
+Copy files and directories:
+
+	$ cp [options] [original] [copy]
+
+Move files and directories (also rename):
+
+	$ mv [options] [original] [new]
+
+Remove files:
+	
+	$ rm [options] [files]
+
+  A few useful options for removing files:
+    -i: request confirmation before removing each file argument.
+    -r: attempt to remove the file arguments and their child files.
+
+Create a directory:
+
+	$ mkdir [options] [directory_name]
+
+Remove a directory:
+
+	$ rmdir [options] [directory_name]
+
