@@ -1,0 +1,16 @@
+========== Linux  =============================================================
+A generic name for a family of open-source Unix-like operating systems based on
+the Linux kernal released by Linus Torvalds on Sep. 17, 1991.
+
+* Unix: an OS developed by Dennis Ritchie & Ken Tompson at Bell Labs (released
+  in 1973)
+
+========== GNU/Linux or just Linux? ===========================================
+* GNU (GNU's Not Unix): A collection of free software from the GNU Project
+  necessary for an operating system to function.
+
+* Linux: The kernal which manages hardware and system resources.
+
+* GNU/Linux: The combination of GNU software and the Linux kernal which results
+  in a complete operating system.
+

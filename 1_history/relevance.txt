@@ -1,0 +1,7 @@
+========== In Today's World ===================================================
+Linux is used in:
+* Servers
+* Mobile deviced (Andriod)
+* Embedded systems
+* Personal computers
+

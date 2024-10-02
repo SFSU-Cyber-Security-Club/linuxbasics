@@ -1,0 +1,22 @@
+========== What is open-source software? ======================================
+* Software released under either a copyleft or permissive license and which can
+  be freely modified and distributed (including source code).
+
+* Copyleft:
+  - Freedom to use, study, copy & share, and modify.
+  - Derived works MUST also be released under the parent copyleft license.
+  - No economic incentive.
+
+* Permisive licenses:
+  - Guarantees the freedoms to use, modify, and redistribute with stipulations
+    imposed by the license.
+
+========== Open-source or Free software? ======================================
+* Open-source:
+  - Permits copyleft and permissive licenses.
+  - Advocated for by the Open Source Initiative (OSI).
+
+* Free software
+  - Prefers copyleft licenses.
+  - Advocated for by the Free Software Foundation (FSF).
+
